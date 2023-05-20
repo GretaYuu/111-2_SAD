@@ -1,0 +1,1168 @@
+<mxfile host="app.diagrams.net" modified="2023-05-16T08:39:54.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UeBNERrFEDliMgulf1jl" version="21.3.2" type="google">
+  <diagram name="第 1 页" id="7XwTzYQVUAlgsjC-mwox">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="10" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="15" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="70" as="sourcePoint" />
+            <mxPoint x="144" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="15" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-11" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-14" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="90" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-15" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-16" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-17" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-19" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-20" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="580" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="585" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="640" as="sourcePoint" />
+            <mxPoint x="144" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="585" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-26" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-27" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="660" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-28" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="680" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-29" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="700" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-30" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="740" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-31" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-32" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1000" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="1150" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1155" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="1210" as="sourcePoint" />
+            <mxPoint x="144" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1155" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-38" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-39" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-40" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-41" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-42" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-43" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-44" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="1720" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1725" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-47" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="1780" as="sourcePoint" />
+            <mxPoint x="144" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1725" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1750" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-50" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-51" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1800" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-52" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1820" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-53" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1840" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-54" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-55" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-56" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-57" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;使用者加入會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-58" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-59" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者成功加入會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="174" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-60" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;進入加入會員頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="174" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-61" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者完成加入會員，可以使用帳號進行登錄&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="204" y="130" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-62" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.使用者進入加入會員頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-63" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.輸入基本個人資料&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-64" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.點擊送出，並且驗證完成&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-65" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.可以使用帳號密碼進行登錄&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-66" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者驗證錯誤&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="165" y="460" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-67" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;重新註冊或者重新驗證&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="480" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-68" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="470" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-69" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="179" y="490" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-70" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員重設密碼&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-72" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-73" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者重設密碼完成&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="174" y="660" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-74" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;點擊進入重設密碼頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="174" y="680" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-75" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;密碼重設成功&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="204" y="700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-76" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.使用者進入重設密碼頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="780" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-77" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;2.使用者輸入欲重設&lt;span style=&quot;background-color: initial;&quot;&gt;密碼&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;之電子郵件&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="800" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-78" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;3.點擊送出&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-79" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;4.進入電子郵件信箱內收取重設密碼信件，並且點擊連結&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="840" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-80" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;5.輸入重設後的密碼，點擊送出&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="860" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-81" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;6.系統顯示&quot;密碼重設成功&quot;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="880" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-84" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;輸入為舊密碼&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1020" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-85" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1030" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-86" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;顯示此為舊密碼，無須更改&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1040" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-87" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1050" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-88" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;使用者登入進主頁&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-89" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-90" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;成功進入主頁，可選取欲使用功能&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-91" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;進入登入頁面&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-92" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;可點選所有主頁內之選項&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-93" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.使用者進入登入頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-94" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.使用者輸入帳號密碼，並且點擊登入&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1370" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-95" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.使用者進入功能主頁畫面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-96" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.使用者可點選主頁內之所有功能&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1410" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-97" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;輸入為錯誤密碼&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-98" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1610" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-106" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;顯示&quot;帳號密碼錯誤&quot; &quot;忘記密碼?&quot;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="184" y="1620" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-107" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="174" y="1630" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-108" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;使用者進入會員中心&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-109" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-110" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入會中心&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1800" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-111" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊會員中心&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1820" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-112" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員可以查看個人資料、預約紀錄、購買紀錄等，且可以修改會員個人資料&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1840" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-113" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入會員中心&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1920" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-114" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員進入會員中心&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1940" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-115" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;3.會員可以點擊會員中心內之所有功能，包括查看個人資料、預約紀錄、購買紀錄。&lt;br&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1960" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-116" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.會員點擊查看個人資料，並且顯示出會員資料&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1980" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-117" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;5.會員點擊預約紀錄，並且頁面跳轉至預約紀錄頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2000" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-119" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;6.會員點擊購買紀錄，並且頁面跳轉至購買紀錄頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2020" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-120" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;7.會員點擊修改會員資料，進入修改會員資料並送出，系統顯示修改完成。&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2040" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-193" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="2310" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-194" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2315" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-195" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="2370" as="sourcePoint" />
+            <mxPoint x="144" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-196" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2315" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-197" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-198" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-199" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-200" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-201" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-202" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-203" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-204" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-205" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;廟方維護&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-206" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;廟方&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="2370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-207" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;廟方可進入維護頁面，並且可更改上架商品、管理預約問事、代燒金紙、管理訂單、管理服務&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;公告&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2390" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-208" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;廟方人員已登入，並且進入管理維護頁面內。&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2420" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-209" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;廟方成功更改上架商品、管理預約問事、代燒金紙、管理訂單、管理服務&lt;span style=&quot;background-color: initial;&quot;&gt;公告&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2440" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-210" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.廟方已登錄至主頁，且點擊進入維護選單頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2510" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-217" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="2880" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-218" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2885" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-219" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="2940" as="sourcePoint" />
+            <mxPoint x="144" y="2940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-220" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2885" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-221" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-222" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-223" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2960" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-224" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2980" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-225" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3000" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-226" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3040" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-227" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3060" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-228" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-229" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員瀏覽及預約問事&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2910" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-230" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="2940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-231" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員已登入且進入主頁&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2980" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-233" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員瀏覽此項目結束，或是成功預約此項目&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3000" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-234" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入預約問事&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3080" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-235" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員進入預約問事&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-241" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="3470" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-242" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3475" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-243" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="3530" as="sourcePoint" />
+            <mxPoint x="144" y="3530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-244" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3475" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-245" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-246" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-247" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3550" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-248" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3570" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-249" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3590" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-250" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="3630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-251" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-252" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3890" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-253" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員瀏覽與做線上點燈&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="3500" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-254" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="3530" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-255" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入線上點燈頁面且可以進行選擇燈種與付款&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="3550" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-256" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊線上點燈&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="3570" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-257" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員可以查看燈種，並且在欲選擇燈種做點燈與付款之動作&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3590" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-258" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入線上點燈&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3670" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-259" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員進入線上點燈&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-261" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.會員點擊進入選擇之燈種，並且查看介紹&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3730" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-262" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;5.會員欲做點燈動作，點擊立即點燈&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3750" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-263" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;6.會員在選擇之燈種做付款動作&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3770" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-264" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;7.付款完成，系統顯示點燈成功&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3790" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-265" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2.廟方可點擊進入更改上架商品、管理預約問事、代燒金紙、管理訂單、管理服務&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;公告&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2530" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-266" value="3.廟方點擊進入更改上架商品，新增或是修改原有商品，並按下儲存，系統顯示儲存完成" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2550" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-267" value="4.廟方點擊進入管理預約問事，刪除或是修改原有預約，並按下儲存，系統顯示儲存完成" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2570" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-268" value="5.廟方點擊進入管理代燒金紙，刪除或是修改數量，並按下儲存，系統顯示儲存完成" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2590" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-269" value="6.廟方點擊進入管理訂單，刪除或是修改數量、配送地址，並按下儲存，系統顯示儲存完成" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2610" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-270" value="7.廟方點擊進入管理服務公告，新增或刪除、更改原有公告，並按下儲存，系統顯示儲存完成" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2630" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-271" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;在維護某項目時，與原有項目同名稱，造成項目衝突&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="166" y="2760" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-272" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2770" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-273" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;警示重複項目，讓廟方選擇刪除原有，或取代原有項目&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="184" y="2780" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-274" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2790" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-275" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員可以瀏覽預約問事項目及預約此項目&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2960" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-276" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.會員瀏覽預約問事介紹&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-277" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.會員若是有意預約，可點擊立即預約，頁面轉至選擇預約時間表&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="156" y="3140" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-278" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;5.會員選擇預約時間，並送出&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="156" y="3160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-279" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;6.送出成功後，系統顯示預約成功，並跳轉至預約問事頁面&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="156" y="3180" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-280" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員預約之時間與開放時間造成衝突&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="166" y="3340" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-281" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3350" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-282" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;警示此預約時間不可用，請另選擇預約時間&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="184" y="3360" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-283" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="174" y="3370" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-284" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.頁面內多種類燈種，讓會員自行選擇燈種，並且觀看更多內容與介紹&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3710" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-285" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員選擇燈種後，未成功付款&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="165" y="3930" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-286" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3940" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-287" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;警示&quot;未成功付款，請依指示重新付款&quot;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="183" y="3950" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-288" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="173" y="3960" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-289" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="4050" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-290" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4055" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-291" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="4110" as="sourcePoint" />
+            <mxPoint x="144" y="4110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-292" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4055" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-293" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4080" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-294" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-295" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-296" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-297" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-298" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-299" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-300" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-301" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員瀏覽與購買代燒金紙&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="4080" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-302" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="4110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-303" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員可進入代燒金紙頁面，並且選擇數量，進行代燒&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="4130" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-304" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊代燒金紙&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="4150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-305" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員可以查看介紹，並選擇數量，付款後，代燒成功&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4170" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-306" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入代燒金紙&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4250" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-307" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員進入代燒金紙&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-308" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.會員點擊立即代燒，並且輸入數量&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4310" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-309" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;5.會員會員在線上支付相對應數量金紙之金額後成功代燒&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4330" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-312" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.頁面內察看介紹&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-313" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員選擇數量後，未成功付款&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="165" y="4510" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-314" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4520" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-315" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;警示&quot;未成功付款，請依指示重新付款&quot;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="183" y="4530" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-316" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="173" y="4540" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-317" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="4630" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-318" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4635" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-319" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="4690" as="sourcePoint" />
+            <mxPoint x="144" y="4690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-320" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4635" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-321" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4660" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-322" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-323" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4710" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-324" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4730" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-325" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4750" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-326" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="4790" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-327" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-328" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="5050" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-329" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員瀏覽與購買祈福商品與購物車&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="4660" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-330" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="4690" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-331" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入祈福商品列表，並且可以選擇商品加入至購物車&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="4710" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-332" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊祈福商品&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="4730" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-333" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員可以查看祈福商品，並且將中意之商品加入至購物車後結帳&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4750" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-334" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入祈福商品&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4830" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-335" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員進入祈福商品列表&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4850" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-336" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.會員點擊加入購物車，選擇數量&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4890" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-337" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;5.商品加入成功後，做購物車結帳&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4910" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-338" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;6.並且填寫送貨地址、電話、收貨人、付款方式&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4930" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-339" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;7.付款完成，系統顯示購買完成，等待商品配送到達&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4950" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-340" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.頁面內多種祈福商品，可以讓會員點擊任何祈福商品並且進入商品頁面觀看介紹&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4870" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-341" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員選擇商品後，未填寫完整寄件地址或是連絡電話與收件人&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="165" y="5090" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-342" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="5100" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-343" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;警示&quot;配送資訊未填寫完整，請重新檢查是否遺漏了什麼資訊&quot;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="183" y="5110" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-344" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="173" y="5120" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-345" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="5220" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-346" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5225" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-347" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="5280" as="sourcePoint" />
+            <mxPoint x="144" y="5280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-348" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5225" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-349" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-350" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-351" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-352" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5320" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-353" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-354" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-355" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="5400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-356" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="5640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-357" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員在祈福卡上留言&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="5250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-358" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="5280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-359" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入祈福卡頁面留言&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="5300" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-360" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊祈福卡&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="5320" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-361" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員可以查看祈福卡介紹，並且將輸入之祈福內容送出&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5340" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-362" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入祈福卡&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="5420" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-363" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員進入祈福卡&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="5440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-364" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.會員輸入祈福內容完成後做送出&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="5480" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-365" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;5.系統顯示&quot;祈福完成&quot;&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="5500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-368" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.頁面內可觀看祈福卡介紹，並且有可供輸入祈福資訊欄&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="5460" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-369" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員輸入之內容有不當內容&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="165" y="5680" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-370" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="5690" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-371" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;警示&quot;祈福內容含有不當字眼與內容，請更改後再送出&quot;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="183" y="5700" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-372" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="173" y="5710" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-373" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="5800" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-374" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5805" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-375" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="5860" as="sourcePoint" />
+            <mxPoint x="144" y="5860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-376" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5805" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-377" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5830" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-378" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-379" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5880" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-380" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5900" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-381" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5920" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-382" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-383" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="5980" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-384" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="6220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-385" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員使用線上求籤之功能&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="5830" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-386" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="5860" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-387" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入線上求籤，並且求籤成功&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="5880" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-388" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊線上求籤&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="5900" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-389" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員可以查看中籤內容與白話翻譯解說&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5920" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-390" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入線上求籤&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="6000" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-391" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員進入線上求籤&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="6020" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-392" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.會員點擊求籤，並且進入擲茭環節&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="6060" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-393" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;5.會員擲茭得到允許後，系統隨機分配籤&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="6080" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-394" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;6.會員可以觀看中籤之白話解說與內容&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="6100" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-396" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.頁面內可向神明求籤&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="6040" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-397" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員擲茭未成功&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="165" y="6260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-398" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="6270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-399" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;系統顯示&quot;擲茭結果不允許，請下次再試&quot;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="183" y="6280" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-400" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="173" y="6290" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-401" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="6380" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-402" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6385" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-403" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="6440" as="sourcePoint" />
+            <mxPoint x="144" y="6440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-404" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6385" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-405" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="6410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-406" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-407" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-408" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6480" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-409" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-410" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-411" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="6560" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-412" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="6800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-413" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員瀏覽本日運勢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="6410" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-414" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="6440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-415" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入本日運勢，查看本日12生肖之運勢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="6460" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-416" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊本日運勢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="6480" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-417" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員查看完成&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="6500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-418" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入本日運勢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="6580" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-420" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.會員可選擇生肖，並且查看本日運勢之介紹&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="6620" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-423" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.頁面內顯示出12生肖之本日運勢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="6600" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-428" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="6970" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-429" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6975" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-430" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="7030" as="sourcePoint" />
+            <mxPoint x="144" y="7030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-431" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="6975" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-432" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="7000" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-433" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-434" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7050" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-435" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7070" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-436" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7090" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-437" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-438" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="7150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-439" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="7390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-440" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員線上添香油錢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="7000" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-441" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="7030" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-442" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入添香油錢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="7050" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-443" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊添香油錢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="7070" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-444" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員付款後添香油錢成功&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="7090" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-445" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入添香油錢&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="7170" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-455" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;8.會員可瀏覽購物車內容，並且修改購物車內容之數量&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="4970" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-456" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.會員輸入欲捐獻之金額&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="7190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-457" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;3.會員在線上做付款後成功&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="7210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-458" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;4.系統顯示&quot;捐獻成功&quot;&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="7230" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-459" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="139" y="7540" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-460" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7545" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-461" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="7600" as="sourcePoint" />
+            <mxPoint x="144" y="7600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-462" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7545" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-463" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="7570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-464" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-465" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7620" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-466" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7640" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-467" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-468" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="144" y="7700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-469" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="7720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-470" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="7960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-471" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員瀏覽拜拜小撇步&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="7570" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-472" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="189" y="7600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-473" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員進入拜拜小撇步，查看內容&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="7620" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-474" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，並且點擊拜拜小撇步&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175" y="7640" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-475" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員查看完成&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="7660" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-476" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊進入&lt;/span&gt;拜拜小撇步&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="7740" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-478" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.頁面內顯示&lt;/span&gt;拜拜小撇步&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="7760" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-479" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="8110" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-480" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="145" y="8115" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-481" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="8170" as="sourcePoint" />
+            <mxPoint x="145" y="8170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-482" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;電子化廟宇&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="8115" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-483" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;使用個案名稱:&lt;/b&gt;&lt;/font&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="281" y="8140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-484" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行為者:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="8170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-485" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;目標:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="145" y="8190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-486" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;前提:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="145" y="8210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-487" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;結束狀態:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="145" y="8230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-488" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;一系列事件:&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="145" y="8270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-489" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;正常程序--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="8290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-490" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px; background-color: initial;&quot;&gt;例外狀況--&lt;/b&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="8530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-491" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;會員查看服務公告&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="381" y="8140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-492" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="8170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-493" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;會員查看服務公告&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="176" y="8190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-494" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;使用者已登錄，進入主頁&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="176" y="8210" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-495" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;會員查看完成&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0e53580a-7fff-661b-b562-f9320f3db989&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="201" y="8230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-496" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1.會員已登錄至主頁，且點擊欲查看之服務公告&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="155" y="8310" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQNl2UQm37Mlu-CNhGue-497" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;2.頁面內顯示&lt;/span&gt;服務公告&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-4bd9ca5e-7fff-9374-8a17-20c64eeeb40d&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="156" y="8330" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
